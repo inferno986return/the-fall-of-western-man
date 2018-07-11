@@ -5,7 +5,7 @@
 		<dc:subject>Politics</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-07-10</dc:date>
+		<dc:date>2018-07-11</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>worldwide</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -14,6 +14,7 @@
 		<item href="styles/zstylesheet.css" id="css0" media-type="text/css"/>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
 		<item href="images/cover.png" id="cover" media-type="image/png"/>
+		<item href="images/backcover.png" id="image0" media-type="image/png"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
 		<item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
@@ -24,7 +25,11 @@
 		<item href="chapter3.xhtml" id="chapter3" media-type="application/xhtml+xml"/>
 		<item href="chapter4.xhtml" id="chapter4" media-type="application/xhtml+xml"/>
 		<item href="chapter5.xhtml" id="chapter5" media-type="application/xhtml+xml"/>
+		<item href="chapter6.xhtml" id="chapter6" media-type="application/xhtml+xml"/>
+		<item href="chapter7.xhtml" id="chapter7" media-type="application/xhtml+xml"/>
+		<item href="chapter8.xhtml" id="chapter8" media-type="application/xhtml+xml"/>
 		<item href="epigraph.xhtml" id="epigraph" media-type="application/xhtml+xml"/>
+		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 		<item href="fonts/leaguegothic-condensedregular.otf" id="font0" media-type="font/opentype"/>
 	</manifest>
 	<spine toc="ncx">
@@ -38,6 +43,10 @@
 		<itemref idref="chapter3"/>
 		<itemref idref="chapter4"/>
 		<itemref idref="chapter5"/>
+		<itemref idref="chapter6"/>
+		<itemref idref="chapter7"/>
+		<itemref idref="chapter8"/>
 		<itemref idref="epigraph"/>
+		<itemref idref="backcover"/>
 	</spine>
 </package>

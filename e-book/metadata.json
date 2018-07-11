@@ -102,8 +102,32 @@
 					{
 						"pageNumber": "10",
 						"indentation": "1",
+						"pageName": "6: The Breakdown – Single Parent Families",
+						"fileName": "chapter6.xhtml"
+					},
+					{
+						"pageNumber": "11",
+						"indentation": "1",
+						"pageName": "7: The Breakdown – The Removal of Society's Safeguards",
+						"fileName": "chapter7.xhtml"
+					},
+					{
+						"pageNumber": "12",
+						"indentation": "1",
+						"pageName": "8: The Breakdown – Bad Role Models",
+						"fileName": "chapter8.xhtml"
+					},
+					{
+						"pageNumber": "13",
+						"indentation": "1",
 						"pageName": "Epigraph",
 						"fileName": "epigraph.xhtml"
+					},
+					{
+						"pageNumber": "14",
+						"indentation": "1",
+						"pageName": "Back Cover",
+						"fileName": "backcover.xhtml"
 					}
 				]
 }

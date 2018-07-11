@@ -90,9 +90,33 @@
 	</navPoint>
 	<navPoint id="navpoint-14" playOrder="14">
 		<navLabel>
+			<text>6: The Breakdown – Single Parent Families</text>
+		</navLabel>
+		<content src="chapter6.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-15" playOrder="15">
+		<navLabel>
+			<text>7: The Breakdown – The Removal of Society's Safeguards</text>
+		</navLabel>
+		<content src="chapter7.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-16" playOrder="16">
+		<navLabel>
+			<text>8: The Breakdown – Bad Role Models</text>
+		</navLabel>
+		<content src="chapter8.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-17" playOrder="17">
+		<navLabel>
 			<text>Epigraph</text>
 		</navLabel>
 		<content src="epigraph.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-18" playOrder="18">
+		<navLabel>
+			<text>Back Cover</text>
+		</navLabel>
+		<content src="backcover.xhtml" />
 	</navPoint>
 </navMap>
 </ncx>
