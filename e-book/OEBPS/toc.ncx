@@ -108,11 +108,17 @@
 	</navPoint>
 	<navPoint id="navpoint-17" playOrder="17">
 		<navLabel>
+			<text>9: The Role of Feminism – The Death of the Loving Mother</text>
+		</navLabel>
+		<content src="chapter9.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-18" playOrder="18">
+		<navLabel>
 			<text>Epigraph</text>
 		</navLabel>
 		<content src="epigraph.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-18" playOrder="18">
+	<navPoint id="navpoint-19" playOrder="19">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>
