@@ -132,11 +132,17 @@
 	</navPoint>
 	<navPoint id="navpoint-21" playOrder="21">
 		<navLabel>
+			<text>13: The Destruction of Loving Relationships</text>
+		</navLabel>
+		<content src="chapter13.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-22" playOrder="22">
+		<navLabel>
 			<text>Epigraph</text>
 		</navLabel>
 		<content src="epigraph.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-22" playOrder="22">
+	<navPoint id="navpoint-23" playOrder="23">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>

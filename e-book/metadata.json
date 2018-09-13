@@ -144,11 +144,17 @@
 					{
 						"pageNumber": "17",
 						"indentation": "1",
+						"pageName": "13: The Destruction of Loving Relationships",
+						"fileName": "chapter13.xhtml"
+					},
+					{
+						"pageNumber": "18",
+						"indentation": "1",
 						"pageName": "Epigraph",
 						"fileName": "epigraph.xhtml"
 					},
 					{
-						"pageNumber": "18",
+						"pageNumber": "19",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"
