@@ -126,11 +126,29 @@
 					{
 						"pageNumber": "14",
 						"indentation": "1",
+						"pageName": "10: The Role of Feminism – The Destruction of the Family Unit",
+						"fileName": "chapter10.xhtml"
+					},
+					{
+						"pageNumber": "15",
+						"indentation": "1",
+						"pageName": "11: The Role of Feminism – The Reduction of the Western Birth Rate",
+						"fileName": "chapter11.xhtml"
+					},
+					{
+						"pageNumber": "16",
+						"indentation": "1",
+						"pageName": "12: Withering Masculinity and the Feminised Male",
+						"fileName": "chapter12.xhtml"
+					},
+					{
+						"pageNumber": "17",
+						"indentation": "1",
 						"pageName": "Epigraph",
 						"fileName": "epigraph.xhtml"
 					},
 					{
-						"pageNumber": "15",
+						"pageNumber": "18",
 						"indentation": "1",
 						"pageName": "Back Cover",
 						"fileName": "backcover.xhtml"

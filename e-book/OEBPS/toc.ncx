@@ -114,11 +114,29 @@
 	</navPoint>
 	<navPoint id="navpoint-18" playOrder="18">
 		<navLabel>
+			<text>10: The Role of Feminism – The Destruction of the Family Unit</text>
+		</navLabel>
+		<content src="chapter10.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-19" playOrder="19">
+		<navLabel>
+			<text>11: The Role of Feminism – The Reduction of the Western Birth Rate</text>
+		</navLabel>
+		<content src="chapter11.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-20" playOrder="20">
+		<navLabel>
+			<text>12: Withering Masculinity and the Feminised Male</text>
+		</navLabel>
+		<content src="chapter12.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-21" playOrder="21">
+		<navLabel>
 			<text>Epigraph</text>
 		</navLabel>
 		<content src="epigraph.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-19" playOrder="19">
+	<navPoint id="navpoint-22" playOrder="22">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>
