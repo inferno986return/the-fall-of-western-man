@@ -138,11 +138,17 @@
 	</navPoint>
 	<navPoint id="navpoint-22" playOrder="22">
 		<navLabel>
+			<text>14: The Loss of Western Mind</text>
+		</navLabel>
+		<content src="chapter14.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-23" playOrder="23">
+		<navLabel>
 			<text>Epigraph</text>
 		</navLabel>
 		<content src="epigraph.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-23" playOrder="23">
+	<navPoint id="navpoint-24" playOrder="24">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>
