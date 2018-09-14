@@ -138,7 +138,7 @@
 	</navPoint>
 	<navPoint id="navpoint-22" playOrder="22">
 		<navLabel>
-			<text>14: The Loss of Western Mind</text>
+			<text>14: The Loss of the Western Mind</text>
 		</navLabel>
 		<content src="chapter14.xhtml" />
 	</navPoint>
