@@ -34,6 +34,17 @@
 		<item href="chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml"/>
 		<item href="chapter13.xhtml" id="chapter13" media-type="application/xhtml+xml"/>
 		<item href="chapter14.xhtml" id="chapter14" media-type="application/xhtml+xml"/>
+		<item href="chapter15.xhtml" id="chapter15" media-type="application/xhtml+xml"/>
+		<item href="chapter16.xhtml" id="chapter16" media-type="application/xhtml+xml"/>
+		<item href="chapter17.xhtml" id="chapter17" media-type="application/xhtml+xml"/>
+		<item href="chapter18.xhtml" id="chapter18" media-type="application/xhtml+xml"/>
+		<item href="chapter19.xhtml" id="chapter19" media-type="application/xhtml+xml"/>
+		<item href="chapter20.xhtml" id="chapter20" media-type="application/xhtml+xml"/>
+		<item href="chapter21.xhtml" id="chapter21" media-type="application/xhtml+xml"/>
+		<item href="chapter22.xhtml" id="chapter22" media-type="application/xhtml+xml"/>
+		<item href="chapter23.xhtml" id="chapter23" media-type="application/xhtml+xml"/>
+		<item href="chapter24.xhtml" id="chapter24" media-type="application/xhtml+xml"/>
+		<item href="chapter25.xhtml" id="chapter25" media-type="application/xhtml+xml"/>
 		<item href="epigraph.xhtml" id="epigraph" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
 		<item href="fonts/leaguegothic-condensedregular.otf" id="font0" media-type="font/opentype"/>
@@ -58,6 +69,17 @@
 		<itemref idref="chapter12"/>
 		<itemref idref="chapter13"/>
 		<itemref idref="chapter14"/>
+		<itemref idref="chapter15"/>
+		<itemref idref="chapter16"/>
+		<itemref idref="chapter17"/>
+		<itemref idref="chapter18"/>
+		<itemref idref="chapter19"/>
+		<itemref idref="chapter20"/>
+		<itemref idref="chapter21"/>
+		<itemref idref="chapter22"/>
+		<itemref idref="chapter23"/>
+		<itemref idref="chapter24"/>
+		<itemref idref="chapter25"/>
 		<itemref idref="epigraph"/>
 		<itemref idref="backcover"/>
 	</spine>

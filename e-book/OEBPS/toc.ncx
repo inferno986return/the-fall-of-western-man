@@ -144,11 +144,77 @@
 	</navPoint>
 	<navPoint id="navpoint-23" playOrder="23">
 		<navLabel>
+			<text>15: The Loss of the Western Body</text>
+		</navLabel>
+		<content src="chapter15.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-24" playOrder="24">
+		<navLabel>
+			<text>16: The Loss of the Western Soul</text>
+		</navLabel>
+		<content src="chapter16.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-25" playOrder="25">
+		<navLabel>
+			<text>17: The Loss of the Western Heart</text>
+		</navLabel>
+		<content src="chapter17.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-26" playOrder="26">
+		<navLabel>
+			<text>18: The Rise of the Cult of Individualism</text>
+		</navLabel>
+		<content src="chapter18.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-27" playOrder="27">
+		<navLabel>
+			<text>19: The Death of the Western Superego</text>
+		</navLabel>
+		<content src="chapter19.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-28" playOrder="28">
+		<navLabel>
+			<text>20: The Triumph of the Id and the Death of the West</text>
+		</navLabel>
+		<content src="chapter20.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-29" playOrder="29">
+		<navLabel>
+			<text>21: False Salvation – Conservatism</text>
+		</navLabel>
+		<content src="chapter21.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-30" playOrder="30">
+		<navLabel>
+			<text>22: False Salvation – Libertarianism</text>
+		</navLabel>
+		<content src="chapter22.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-31" playOrder="31">
+		<navLabel>
+			<text>23: False Salvation – The Hollywood Nazi</text>
+		</navLabel>
+		<content src="chapter23.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-32" playOrder="32">
+		<navLabel>
+			<text>24: True Salvation – Nationalism</text>
+		</navLabel>
+		<content src="chapter24.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-33" playOrder="33">
+		<navLabel>
+			<text>25: Redemption</text>
+		</navLabel>
+		<content src="chapter25.xhtml" />
+	</navPoint>
+	<navPoint id="navpoint-34" playOrder="34">
+		<navLabel>
 			<text>Epigraph</text>
 		</navLabel>
 		<content src="epigraph.xhtml" />
 	</navPoint>
-	<navPoint id="navpoint-24" playOrder="24">
+	<navPoint id="navpoint-35" playOrder="35">
 		<navLabel>
 			<text>Back Cover</text>
 		</navLabel>
