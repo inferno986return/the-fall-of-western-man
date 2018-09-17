@@ -15,6 +15,7 @@ import json
 from collections import OrderedDict
 import re
 import zipfile
+import hashlib
 
 with open("metadata.json") as json_file:
     data = json.load((json_file), object_pairs_hook=OrderedDict) #For some reason the order is randomised, this preserves the order.
@@ -32,7 +33,7 @@ def GenOPF():
     opf.write('\t\t<dc:subject>' + data["subject"] + '</dc:subject>\n')
     opf.write('\t\t<dc:publisher>' + data["publisher"] + '</dc:publisher>\n')
     opf.write('\t\t<dc:identifier id="bookid">' + data["ISBN"] + '</dc:identifier>\n')
-    opf.write('\t\t<dc:date>' + (time.strftime("%Y-%m-%d")) + '</dc:date>\n') #YYYY[-MM[-DD]]
+    opf.write('\t\t<dc:date>' + (time.strftime("%Y-%m-%d"+"T%H:%M:%S")) + '</dc:date>\n') #Date and time using ISO 8601 to ensure a unique checksum (YYYY-MM-DDThh:mm:ss)
     opf.write('\t\t<dc:language>' + data["language"] + '</dc:language>\n')
     opf.write('\t\t<dc:rights>' + data["rights"] + '</dc:rights>\n')
     opf.write('\t\t<meta content="cover" name="cover"/>\n')
@@ -319,6 +320,39 @@ def GenEpub():
 #print(getinfo.compress_size(zf))
 #print(getinfo.file_size(zf))
 
+def GenChksum():
+#Generate and show MD5 and SHA512 checksums for the ePub using hashlib
+
+    md5 = hashlib.md5()
+    sha512 = hashlib.sha512()
+
+    with open(data["fileName"] + ".epub", 'rb') as afile:
+        buffer = afile.read()
+        md5.update(buffer)
+        sha512.update(buffer)
+
+    # Seperates the checksum output from the files going into the book.
+    print()
+    print("-This output is saved to checksums.txt-")
+    print()
+    print("Checksum values for " + data["fileName"] + ".epub")
+    print("=============================================")
+    print("MD5: "+ md5.hexdigest())
+    print("SHA512: "+ sha512.hexdigest())
+
+    
+
+    chksum = metainf = open("checksums.txt", "w")
+
+    chksum.write("Checksum values for " + data["fileName"] + ".epub\n")
+    chksum.write("=============================================\n")
+    chksum.write("\n")
+    
+    chksum.write("MD5: " + md5.hexdigest() + "\n")
+    chksum.write("SHA512: " + sha512.hexdigest())
+
+
 GenOPF()
 GenNCX()
 GenEpub()
+GenChksum()
