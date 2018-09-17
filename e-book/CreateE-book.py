@@ -337,10 +337,10 @@ def GenChksum():
     print()
     print("Checksum values for " + data["fileName"] + ".epub")
     print("=============================================")
+    print()
     print("MD5: "+ md5.hexdigest())
     print("SHA512: "+ sha512.hexdigest())
-
-    
+    print()
 
     chksum = metainf = open("checksums.txt", "w")
 
