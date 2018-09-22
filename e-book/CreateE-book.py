@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 
-#CreateE-book.py - Combines GenMetadata.py and GenEpub.py into one easy script.
+#CreateE-book.py v0.81 - Generates an ePub file using data from the metadata.json.
 
-#GenMetadata.py - Generates the content.opf and toc.ncx files from the metadata.json file.
+#This file is part of the ebookbuild project (also known as Project Zylon) which is licensed under GNU General Public License v3.0 (GNU GPLv3): https://www.gnu.org/licenses/gpl-3.0.en.html
 
 #opf = "OEBPS/content.opf"
 #ncx = "OEBPS/toc.ncx"
-
-#JSON extraction magic
 
 import os
 import time
@@ -17,6 +15,7 @@ import re
 import zipfile
 import hashlib
 
+#JSON extraction magic
 with open("metadata.json") as json_file:
     data = json.load((json_file), object_pairs_hook=OrderedDict) #For some reason the order is randomised, this preserves the order.
 
@@ -347,7 +346,7 @@ def GenChksum():
     chksum.write("Checksum values for " + data["fileName"] + ".epub\n")
     chksum.write("=============================================\n")
     chksum.write("\n")
-    
+
     chksum.write("MD5: " + md5.hexdigest() + "\n")
     chksum.write("SHA512: " + sha512.hexdigest())
 
