@@ -23,6 +23,6 @@ League Gothic is licensed under **[SIL Open Font License 1.1 (SIL OFL)](https://
 
 The e-book's XHTML, CSS and JSON code is licensed under **[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**.
 
-`ebookbuild`'s Python code is licensed under **[GNU General Public License v3.0 (GNU GPLv3)(https://www.gnu.org/licenses/gpl-3.0.en.html)]**.
+`ebookbuild`'s Python code is licensed under **[GNU General Public License v3.0 (GNU GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
 
 `epubcheck` itself is licensed under the **[3-Clause BSD License](https://opensource.org/licenses/BSD-3-Clause)**, though its dependencies use the **[Mozilla Public License Version 1.0 (MPL)](https://www-archive.mozilla.org/MPL/MPL-1.0.html)** and **[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)**. See e-book/readme+licenses for a full list of contributors and a readme specifically for `epubcheck`.
