@@ -18,6 +18,14 @@ Use ems instead of percentages.
   src: url("../fonts/leaguegothic-condensedregular.otf");
 }
 
+/*Cover*/
+
+div.cover
+{
+  height: 100%;
+  width: 100%;
+}
+
 /*Titles*/
 
 h1.title
