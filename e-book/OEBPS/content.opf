@@ -5,16 +5,16 @@
 		<dc:subject>Politics</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-09-24T16:53:10</dc:date>
+		<dc:date>2018-09-24T17:01:13</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>worldwide</dc:rights>
 		<meta content="cover" name="cover"/>
 	</metadata>
 	<manifest>
-		<item href="styles\zstylesheet.css" id="css0" media-type="text/css"/>
+		<item href="styles/zstylesheet.css" id="css0" media-type="text/css"/>
 		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-		<item href="images\backcover.jpg" id="image0" media-type="image/jpeg"/>
-		<item href="images\cover.jpg" id="cover" media-type="image/jpeg"/>
+		<item href="images/backcover.jpg" id="image0" media-type="image/jpeg"/>
+		<item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
 		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
 		<item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
@@ -47,7 +47,7 @@
 		<item href="chapter25.xhtml" id="chapter25" media-type="application/xhtml+xml"/>
 		<item href="epigraph.xhtml" id="epigraph" media-type="application/xhtml+xml"/>
 		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
-		<item href="fonts\leaguegothic-condensedregular.otf" id="font0" media-type="font/opentype"/>
+		<item href="fonts/leaguegothic-condensedregular.otf" id="font0" media-type="font/opentype"/>
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="bookcover"/>

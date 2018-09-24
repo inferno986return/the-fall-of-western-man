@@ -90,37 +90,37 @@
 	</navPoint>
 	<navPoint id="navpoint-14" playOrder="14">
 		<navLabel>
-			<text>6: The Breakdown â€“ Single Parent Families</text>
+			<text>6: The Breakdown – Single Parent Families</text>
 		</navLabel>
 		<content src="chapter6.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-15" playOrder="15">
 		<navLabel>
-			<text>7: The Breakdown â€“ The Removal of Society's Safeguards</text>
+			<text>7: The Breakdown – The Removal of Society's Safeguards</text>
 		</navLabel>
 		<content src="chapter7.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-16" playOrder="16">
 		<navLabel>
-			<text>8: The Breakdown â€“ Bad Role Models</text>
+			<text>8: The Breakdown – Bad Role Models</text>
 		</navLabel>
 		<content src="chapter8.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-17" playOrder="17">
 		<navLabel>
-			<text>9: The Role of Feminism â€“ The Death of the Loving Mother</text>
+			<text>9: The Role of Feminism – The Death of the Loving Mother</text>
 		</navLabel>
 		<content src="chapter9.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-18" playOrder="18">
 		<navLabel>
-			<text>10: The Role of Feminism â€“ The Destruction of the Family Unit</text>
+			<text>10: The Role of Feminism – The Destruction of the Family Unit</text>
 		</navLabel>
 		<content src="chapter10.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-19" playOrder="19">
 		<navLabel>
-			<text>11: The Role of Feminism â€“ The Reduction of the Western Birth Rate</text>
+			<text>11: The Role of Feminism – The Reduction of the Western Birth Rate</text>
 		</navLabel>
 		<content src="chapter11.xhtml" />
 	</navPoint>
@@ -180,25 +180,25 @@
 	</navPoint>
 	<navPoint id="navpoint-29" playOrder="29">
 		<navLabel>
-			<text>21: False Salvation â€“ Conservatism</text>
+			<text>21: False Salvation – Conservatism</text>
 		</navLabel>
 		<content src="chapter21.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-30" playOrder="30">
 		<navLabel>
-			<text>22: False Salvation â€“ Libertarianism</text>
+			<text>22: False Salvation – Libertarianism</text>
 		</navLabel>
 		<content src="chapter22.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-31" playOrder="31">
 		<navLabel>
-			<text>23: False Salvation â€“ The Hollywood Nazi</text>
+			<text>23: False Salvation – The Hollywood Nazi</text>
 		</navLabel>
 		<content src="chapter23.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-32" playOrder="32">
 		<navLabel>
-			<text>24: True Salvation â€“ Nationalism</text>
+			<text>24: True Salvation – Nationalism</text>
 		</navLabel>
 		<content src="chapter24.xhtml" />
 	</navPoint>
