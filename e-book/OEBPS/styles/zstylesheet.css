@@ -22,8 +22,8 @@ Use ems instead of percentages.
 
 div.cover
 {
-  height: 100%;
-  width: 100%;
+  max-height: auto;
+  max-width: auto;
 }
 
 /*Titles*/
