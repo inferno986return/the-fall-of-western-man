@@ -38,14 +38,14 @@
 					{
 						"pageNumber": "1",
 						"indentation": "1",
-						"pageName": "Contents",
-						"fileName": "toc.xhtml"
+						"pageName": "Indicia",
+						"fileName": "indicia.xhtml"
 					},
 					{
 						"pageNumber": "2",
 						"indentation": "1",
-						"pageName": "Indicia",
-						"fileName": "indicia.xhtml"
+						"pageName": "Contents",
+						"fileName": "toc.xhtml"
 					},
 					{
 						"pageNumber": "3",
