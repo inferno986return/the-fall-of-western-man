@@ -8,7 +8,7 @@
 		"fontsFolder": "fonts",
 
 		"comment2": "Technical metadata - This is the where the cover image is specified. Recommended to use ePub V2.0.over 3.for epubVersion and Reflowable rather than Fixed for textPresentation (unless doing a project that requires a specific layout). mobiCover and generateKindle are currently unused but added for futureproofing.",
-		"epubCover": "cover.png",
+		"epubCover": "cover.jpg",
 		"mobiCover": "cover.jpg",
 		"fileName": "FallofWesternMan",
 		"epubVersion": "2.0.1",
