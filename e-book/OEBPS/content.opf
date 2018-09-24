@@ -5,7 +5,7 @@
 		<dc:subject>Politics</dc:subject>
 		<dc:publisher></dc:publisher>
 		<dc:identifier id="bookid">-</dc:identifier>
-		<dc:date>2018-09-24T17:01:13</dc:date>
+		<dc:date>2018-09-24T17:06:51</dc:date>
 		<dc:language>en</dc:language>
 		<dc:rights>worldwide</dc:rights>
 		<meta content="cover" name="cover"/>
@@ -16,10 +16,10 @@
 		<item href="images/backcover.jpg" id="image0" media-type="image/jpeg"/>
 		<item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
 		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
-		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
-		<item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
-		<item href="acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc" media-type="application/xhtml+xml"/>
+		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
+		<item href="acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml"/>
+		<item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
 		<item href="chapter1.xhtml" id="chapter1" media-type="application/xhtml+xml"/>
 		<item href="chapter2.xhtml" id="chapter2" media-type="application/xhtml+xml"/>
 		<item href="chapter3.xhtml" id="chapter3" media-type="application/xhtml+xml"/>
@@ -51,10 +51,10 @@
 	</manifest>
 	<spine toc="ncx">
 		<itemref idref="bookcover"/>
-		<itemref idref="indicia"/>
-		<itemref idref="foreword"/>
-		<itemref idref="acknowledgements"/>
 		<itemref idref="toc"/>
+		<itemref idref="indicia"/>
+		<itemref idref="acknowledgements"/>
+		<itemref idref="foreword"/>
 		<itemref idref="chapter1"/>
 		<itemref idref="chapter2"/>
 		<itemref idref="chapter3"/>

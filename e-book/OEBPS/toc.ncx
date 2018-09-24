@@ -18,15 +18,15 @@
 	</navPoint>
 	<navPoint id="navpoint-2" playOrder="2">
 		<navLabel>
-			<text>Indicia</text>
+			<text>Contents</text>
 		</navLabel>
-		<content src="indicia.xhtml" />
+		<content src="toc.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-3" playOrder="3">
 		<navLabel>
-			<text>Foreword</text>
+			<text>Indicia</text>
 		</navLabel>
-		<content src="foreword.xhtml" />
+		<content src="indicia.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-4" playOrder="4">
 		<navLabel>
@@ -36,9 +36,9 @@
 	</navPoint>
 	<navPoint id="navpoint-5" playOrder="5">
 		<navLabel>
-			<text>Contents</text>
+			<text>Foreword</text>
 		</navLabel>
-		<content src="toc.xhtml" />
+		<content src="foreword.xhtml" />
 	</navPoint>
 	<navPoint id="navpoint-6" playOrder="6">
 		<navLabel>
