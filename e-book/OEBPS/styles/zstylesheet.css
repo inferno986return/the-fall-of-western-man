@@ -20,10 +20,18 @@ Use ems instead of percentages.
 
 /*Cover*/
 
-div.cover
+p.kindle-center
 {
-  width: 100%;
-  height: 100%;
+  text-align: center; /*Fix for Kindle?*/
+}
+
+img.cover-image
+{
+  width: 700px;
+  height: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 /*Titles*/
