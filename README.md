@@ -1,6 +1,18 @@
 # the-fall-of-western-man
 
-A real e-book counterpart to the Fall of Western Man. Still a work in progress and needs covers.
+A real e-book counterpart to the Fall of Western Man in both ePub and Kindle Mobi formats. Still in development, needs checking.
+
+**The Fall of Western Man**
+
+Western man is a shadow of his former self: his mind enslaved, his body weakened, his spirit corrupted and the courage and bravery he once possessed radically diminished. Western civilisation and all the achievements it encompasses once held the world in awe, yet despite this, the West is in the midst of a moral and social decline.
+
+*The Fall of Western Man* explains the working of the mind and how once the mind is reduced in its capacity to reason and the hardened mental fortitude of a people is broken, those people can be convinced of anything. The enemies of the West have used this knowledge to play a devious and divisive game that has undermined the common values and homogeneity found within Western society.
+
+*The Fall of Western Man* details how the social structures that have shaped generation after generation of Western man have been weakened and removed in order to prevent Western society from holding on to its culture and traditions. This has destroyed strong and cohesive Western communities and reduced them to disparate groups of individuals who are only concerned with hedonism and selfish pursuits.
+
+But it is still not too late for redemption. Discover how Western man can fight back against these attacks and go on to rediscover his roots and reclaim his birthright.
+
+**www.thefallofwesternman.com**
 
 ## Licensing
 
