@@ -1,5 +1,5 @@
 Checksum values for FallofWesternMan.epub
 =============================================
 
-MD5: 9e05a6fb1fef48f14abae5549a14c6db
-SHA512: a984fe620648b2442a2cf24e7bcfe1f1402c2c088dc89da51ea867cfb45c1cf8882d4f405727d0fcbb3350f537dd09b28c371b8c65b17a5bbe06032628a92fd1
+MD5: f26b52a8670b832b48b9fcc1c87cfa0b
+SHA512: c40a2ddb8873b5e35b075e384bc12d58b69eacba2b6fea0faca2e689ef36aa0d24dccc2184c7167352be266f454738408099e910d2508f63b48856943fa5ddb5
