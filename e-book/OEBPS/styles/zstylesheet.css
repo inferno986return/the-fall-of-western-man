@@ -92,7 +92,7 @@ h2.indicia-heading
 
 h1.heading
 {
-	font-size: 2.5em; /*Originally 3em, but reduced to make e-book look better when League Gothic is unavailable.*/
+	font-size: 2.4em; /*Originally 3em, but reduced to make e-book look better when League Gothic is unavailable.*/
 	font-family: "league_gothic", sans-serif;
 	font-weight: normal;
 	text-align: center;
