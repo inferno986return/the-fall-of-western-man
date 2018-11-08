@@ -1,6 +1,8 @@
 # the-fall-of-western-man
 
-A real e-book counterpart to the *Fall of Western Man* by Mark Collett in both ePub and Kindle Mobi formats. Should be a verbatim copy of the original with a few minor alterations made for consistency that are documented in the `ConversionNotes.md` text file.
+*Download a copy via this GitHub repository's [releases](https://github.com/inferno986return/the-fall-of-western-man/releases) section. Any issues with the e-book, no matter how trivial can be discussed in the [issues](https://github.com/inferno986return/the-fall-of-western-man/issues) section (requires a GitHub account).* 
+
+A real e-book counterpart to the *Fall of Western Man* by Mark Collett in both ePub (and eventually Kindle Mobi) format. Should be a verbatim copy of the original with a few minor alterations made for consistency that are documented in the `ConversionNotes.md` text file.
 
 A new ePub can be generated and checked for adherance to the ePub standard by using `python3 CreateE-book.py && java -jar epubcheck.jar FallofWesternMan.epub` on GNU Bash (macOS/GNU-Linux).
 
