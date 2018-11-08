@@ -1,6 +1,10 @@
 # the-fall-of-western-man
 
-A real e-book counterpart to the Fall of Western Man in both ePub and Kindle Mobi formats. Still in development, needs checking.
+A real e-book counterpart to the *Fall of Western Man* by Mark Collett in both ePub and Kindle Mobi formats. Should be a verbatim copy of the original with a few minor alterations made for consistency that are documented in the `ConversionNotes.md` text file.
+
+A new ePub can be generated and checked for adherance to the ePub standard by using `python3 CreateE-book.py && java -jar epubcheck.jar FallofWesternMan.epub` on GNU Bash (macOS/GNU-Linux).
+
+<img src="https://github.com/inferno986return/the-fall-of-western-man/blob/master/e-book/OEBPS/images/cover.jpg" alt=""/>
 
 **The Fall of Western Man**
 
@@ -16,7 +20,7 @@ But it is still not too late for redemption. Discover how Western man can fight 
 
 ## Licensing
 
-*The Fall of Western Man's* indicia goes as follows, I personally treat this licensing as similar to **[Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)](https://creativecommons.org/licenses/by-nc-nd/3.0/)**. This license covers the book's content and images.
+*The Fall of Western Man*'s indicia goes as follows, I personally treat this licensing as similar to **[Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)](https://creativecommons.org/licenses/by-nc-nd/3.0/)**. This license covers the book's content and images.
 
 >This digital copy of *The Fall of Western Man* is **FREE** and was produced not-for-profit. It is available for download at **[www.thefallofwesternman.com](http://www.thefallofwesternman.com/)**
 
@@ -33,7 +37,7 @@ But it is still not too late for redemption. Discover how Western man can fight 
 
 League Gothic is licensed under **[SIL Open Font License 1.1 (SIL OFL)](https://scripts.sil.org/ofl)** which freely allows embedding into commercial e-books. Calisto MT however is proprietary and has been omitted from the e-book (also Apple Books doesn't like custom body text fonts).
 
-The e-book's XHTML, CSS and JSON code is licensed under **[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**.
+The e-book's XHTML, CSS and JSON code is licensed under **[Creative Commons Zero 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/)**.
 
 `ebookbuild`'s Python code is licensed under **[GNU General Public License v3.0 (GNU GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html)**.
 
