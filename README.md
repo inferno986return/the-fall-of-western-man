@@ -4,7 +4,7 @@ A real e-book counterpart to the *Fall of Western Man* by Mark Collett in both e
 
 A new ePub can be generated and checked for adherance to the ePub standard by using `python3 CreateE-book.py && java -jar epubcheck.jar FallofWesternMan.epub` on GNU Bash (macOS/GNU-Linux).
 
-<img src="https://github.com/inferno986return/the-fall-of-western-man/blob/master/e-book/OEBPS/images/cover.jpg" width="500px" height="500px" alt=""/>
+<img src="https://github.com/inferno986return/the-fall-of-western-man/blob/master/e-book/OEBPS/images/cover.jpg" width="505px" height="718px" alt=""/>
 
 **The Fall of Western Man**
 
