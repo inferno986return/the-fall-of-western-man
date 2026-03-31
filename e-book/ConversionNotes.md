@@ -4,6 +4,8 @@ The PDF is professionally done, so these are minor suggestions I'd recommend for
 
 The foreword is technically a preface, as a foreword is written by someone other than the author.
 
+The indent in the e-book is equivalent to an em-dash (width of 'M') which is the standard and looks better. I justify this change as being more screen-efficient too.
+
 It would look more cosmetically appealing perhaps if curly quotes were used rather than straight quotes.
 
 Percent is rather unusual to written out as "per cent".
