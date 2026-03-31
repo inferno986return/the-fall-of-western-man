@@ -1,10 +1,14 @@
 # the-fall-of-western-man
 
-*Download a copy via this GitHub repository's [releases](https://github.com/inferno986return/the-fall-of-western-man/releases) section. Any issues with the e-book, no matter how trivial can be discussed in the [issues](https://github.com/inferno986return/the-fall-of-western-man/issues) section (requires a GitHub account).* 
+**NEW FOR 2026!** EPUB 3.3 edition to celebrate Sam Melia's new book *Legal, Truthful, Guilty* with a foreword by none other than Mark Collett himself. Purhase a copy from here: https://www.grandmatowlers.co.uk/shop/
 
-A real e-book counterpart to the *Fall of Western Man* by Mark Collett in both ePub (and eventually Kindle Mobi) format. Should be a verbatim copy of the original with a few minor alterations made for consistency that are documented in the `ConversionNotes.md` text file.
+Use Send to Kindle to read *The Fall of Western Man* on the Kindle app or the Kindle e-readers such as the Paperwhite, Oasis and the new ColorSoft: https://www.amazon.co.uk/sendtokindle
 
-A new ePub can be generated and checked for adherance to the ePub standard by using `python3 CreateE-book.py && java -jar epubcheck.jar FallofWesternMan.epub` on GNU Bash (macOS/GNU-Linux).
+*Download a copy via this GitHub repository's [releases](https://github.com/inferno986return/the-fall-of-western-man/releases) section. Any issues with the e-book, no matter how trivial can be discussed in the [issues](https://github.com/inferno986return/the-fall-of-western-man/issues) section (requires a GitHub account).*
+
+A real e-book counterpart to the *Fall of Western Man* by Mark Collett in the EPUB 3.3 format. Should be a verbatim copy of the original with a few minor alterations made for consistency that are documented in the `ConversionNotes.md` text file.
+
+A new EPUB can be generated and checked for adherance to the ePub standard by using `python3 ebookbuild-3.3.py && java -jar epubcheck.jar TheMarkOfStCrispin.epub 2>&1 | tee epublog.md` on GNU Bash (macOS, GNU/Linux or Windows Substem for Linux (WSL)).
 
 <img src="https://github.com/inferno986return/the-fall-of-western-man/blob/master/e-book/OEBPS/images/cover.jpg" width="505px" height="718px" alt=""/>
 
@@ -19,6 +23,15 @@ Western man is a shadow of his former self: his mind enslaved, his body weakened
 But it is still not too late for redemption. Discover how Western man can fight back against these attacks and go on to rediscover his roots and reclaim his birthright.
 
 **www.thefallofwesternman.com**
+
+## Epigraph
+
+>“Beyond doubt it would speedily verify the poverb that a nation must ravage itself before foreigners can ravage it, a man must despise himself before others can despise him.”
+—Yukio Mishima, Runaway Horses
+
+The epigraph is from the Japanese novel *Runaway Horses* (1963) by Yukio Mishima and was set between June 1932 and December 1933 during the Taishō era.
+
+https://en.wikipedia.org/wiki/Runaway_Horses
 
 ## Licensing
 
