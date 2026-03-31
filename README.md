@@ -1,8 +1,9 @@
 # the-fall-of-western-man
 
-**NEW FOR 2026!** EPUB 3.3 edition to celebrate Sam Melia's new book *Legal, Truthful, Guilty* with a foreword by none other than Mark Collett himself. Purhase a copy from here: https://www.grandmatowlers.co.uk/shop/
+**NEW FOR 2026!** EPUB 3.3 edition to celebrate Sam Melia's new book *Legal, Truthful, Guilty* with a foreword by none other than Mark Collett himself. Purchase a copy from here: https://www.grandmatowlers.co.uk/shop/
 
-Use Send to Kindle to read *The Fall of Western Man* on the Kindle app or the Kindle e-readers such as the Paperwhite, Oasis and the new ColorSoft: https://www.amazon.co.uk/sendtokindle
+* You can upload up to 1,000 e-books in EPUB and PDF formats on Google Play Books: https://play.google.com/books/
+* Use Send to Kindle to read *The Fall of Western Man* on the Kindle app or the Kindle e-readers such as the Paperwhite, Oasis and the new ColorSoft: https://www.amazon.co.uk/sendtokindle
 
 *Download a copy via this GitHub repository's [releases](https://github.com/inferno986return/the-fall-of-western-man/releases) section. Any issues with the e-book, no matter how trivial can be discussed in the [issues](https://github.com/inferno986return/the-fall-of-western-man/issues) section (requires a GitHub account).*
 

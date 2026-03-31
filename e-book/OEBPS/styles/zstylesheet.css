@@ -208,14 +208,13 @@ h1.split-page {
 
 /*Paragraphs*/
 
-p
-{
+p {
 	font-size: 1em;
 	font-family: serif;
-	margin: 0px 0em 0em 0em;
 	text-align: justify;
 	text-indent: 1em;
 	hyphens: none;
+	font-variant-numeric: normal;
 }
 
 p.indicia, .indicia {
