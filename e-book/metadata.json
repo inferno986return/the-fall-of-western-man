@@ -102,42 +102,6 @@
             "pageName": "2: The Importance of the Superego",
             "fileName": "chapter2.xhtml"
         },
-
-        "pages": [
-    {
-        "type": "cover",
-        "pageName": "Front Cover",
-        "fileName": "bookcover.xhtml"
-    },
-    {
-        "pageName": "Indicia",
-        "fileName": "indicia.xhtml"
-    },
-    {
-        "pageName": "Contents",
-        "fileName": "toc.xhtml"
-    },
-    {
-        "pageName": "Acknowledgements",
-        "fileName": "acknowledgements.xhtml"
-    },
-    {
-        "pageName": "Foreword",
-        "fileName": "foreword.xhtml"
-    },
-    {
-        "pageName": "1: The Id, the Ego and the Superego",
-        "fileName": "chapter1.xhtml",
-        "subheadings": [
-            { "pageName": "The Id", "fileName": "chapter1.xhtml#theid", "subheadings": [] },
-            { "pageName": "The Ego", "fileName": "chapter1.xhtml#theego", "subheadings": [] },
-            { "pageName": "The Superego", "fileName": "chapter1.xhtml#thesuperego", "subheadings": [] }
-        ]
-    },
-    {
-        "pageName": "2: The Importance of the Superego",
-        "fileName": "chapter2.xhtml"
-    },
     {
         "pageName": "3: The Perfect Society",
         "fileName": "chapter3.xhtml"

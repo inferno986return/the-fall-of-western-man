@@ -1,86 +1,91 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-		<dc:title>The Fall of Western Man</dc:title>
-		<dc:creator>Mark Collett</dc:creator>
-		<dc:subject>Politics</dc:subject>
-		<dc:publisher>Mark Collett</dc:publisher>
-		<dc:identifier id="bookid">978-1542417648</dc:identifier>
-		<dc:date>2019-01-18T21:07:21</dc:date>
-		<dc:language>en</dc:language>
-		<dc:rights>worldwide</dc:rights>
-		<meta content="cover" name="cover"/>
-	</metadata>
-	<manifest>
-		<item href="styles/zstylesheet.css" id="css0" media-type="text/css"/>
-		<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-		<item href="images/backcover.jpg" id="image0" media-type="image/jpeg"/>
-		<item href="images/cover.jpg" id="cover" media-type="image/jpeg"/>
-		<item href="bookcover.xhtml" id="bookcover" media-type="application/xhtml+xml"/>
-		<item href="indicia.xhtml" id="indicia" media-type="application/xhtml+xml"/>
-		<item href="toc.xhtml" id="toc" media-type="application/xhtml+xml"/>
-		<item href="acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml"/>
-		<item href="foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
-		<item href="chapter1.xhtml" id="chapter1" media-type="application/xhtml+xml"/>
-		<item href="chapter2.xhtml" id="chapter2" media-type="application/xhtml+xml"/>
-		<item href="chapter3.xhtml" id="chapter3" media-type="application/xhtml+xml"/>
-		<item href="chapter4.xhtml" id="chapter4" media-type="application/xhtml+xml"/>
-		<item href="chapter5.xhtml" id="chapter5" media-type="application/xhtml+xml"/>
-		<item href="chapter6.xhtml" id="chapter6" media-type="application/xhtml+xml"/>
-		<item href="chapter7.xhtml" id="chapter7" media-type="application/xhtml+xml"/>
-		<item href="chapter8.xhtml" id="chapter8" media-type="application/xhtml+xml"/>
-		<item href="chapter9.xhtml" id="chapter9" media-type="application/xhtml+xml"/>
-		<item href="chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml"/>
-		<item href="chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml"/>
-		<item href="chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml"/>
-		<item href="chapter13.xhtml" id="chapter13" media-type="application/xhtml+xml"/>
-		<item href="chapter14.xhtml" id="chapter14" media-type="application/xhtml+xml"/>
-		<item href="chapter15.xhtml" id="chapter15" media-type="application/xhtml+xml"/>
-		<item href="chapter16.xhtml" id="chapter16" media-type="application/xhtml+xml"/>
-		<item href="chapter17.xhtml" id="chapter17" media-type="application/xhtml+xml"/>
-		<item href="chapter18.xhtml" id="chapter18" media-type="application/xhtml+xml"/>
-		<item href="chapter19.xhtml" id="chapter19" media-type="application/xhtml+xml"/>
-		<item href="chapter20.xhtml" id="chapter20" media-type="application/xhtml+xml"/>
-		<item href="chapter21.xhtml" id="chapter21" media-type="application/xhtml+xml"/>
-		<item href="chapter22.xhtml" id="chapter22" media-type="application/xhtml+xml"/>
-		<item href="chapter23.xhtml" id="chapter23" media-type="application/xhtml+xml"/>
-		<item href="chapter24.xhtml" id="chapter24" media-type="application/xhtml+xml"/>
-		<item href="chapter25.xhtml" id="chapter25" media-type="application/xhtml+xml"/>
-		<item href="epigraph.xhtml" id="epigraph" media-type="application/xhtml+xml"/>
-		<item href="backcover.xhtml" id="backcover" media-type="application/xhtml+xml"/>
-		<item href="fonts/leaguegothic-condensedregular.otf" id="font0" media-type="font/opentype"/>
-	</manifest>
-	<spine toc="ncx">
-		<itemref idref="bookcover"/>
-		<itemref idref="indicia"/>
-		<itemref idref="toc"/>
-		<itemref idref="acknowledgements"/>
-		<itemref idref="foreword"/>
-		<itemref idref="chapter1"/>
-		<itemref idref="chapter2"/>
-		<itemref idref="chapter3"/>
-		<itemref idref="chapter4"/>
-		<itemref idref="chapter5"/>
-		<itemref idref="chapter6"/>
-		<itemref idref="chapter7"/>
-		<itemref idref="chapter8"/>
-		<itemref idref="chapter9"/>
-		<itemref idref="chapter10"/>
-		<itemref idref="chapter11"/>
-		<itemref idref="chapter12"/>
-		<itemref idref="chapter13"/>
-		<itemref idref="chapter14"/>
-		<itemref idref="chapter15"/>
-		<itemref idref="chapter16"/>
-		<itemref idref="chapter17"/>
-		<itemref idref="chapter18"/>
-		<itemref idref="chapter19"/>
-		<itemref idref="chapter20"/>
-		<itemref idref="chapter21"/>
-		<itemref idref="chapter22"/>
-		<itemref idref="chapter23"/>
-		<itemref idref="chapter24"/>
-		<itemref idref="chapter25"/>
-		<itemref idref="epigraph"/>
-		<itemref idref="backcover"/>
-	</spine>
+<?xml version='1.0' encoding='UTF-8'?>
+<package xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+  <metadata>
+    <dc:identifier id="bookid">978-1542417648</dc:identifier>
+    <meta refines="#bookid" property="identifier-type" scheme="xsd:string">ISBN</meta>
+    <dc:title>The Fall of Western Man</dc:title>
+    <dc:creator id="creator1">Mark Collett</dc:creator>
+    <meta refines="#creator1" property="role" scheme="marc:relators">aut</meta>
+    <dc:publisher>Mark Collett</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:rights>worldwide</dc:rights>
+    <dc:date>2017-10-30T00:00:00Z</dc:date>
+    <dc:description>Western man is a shadow of his former self: his mind enslaved, his body weakened, his spirit corrupted and the courage and bravery he once possessed radically diminished. Western civilisation and all the achievements it encompasses once held the world in awe, yet despite this, the West is in the midst of a moral and social decline.&lt;br/&gt;&lt;/br&gt;&lt;i&gt;The Fall of Western Man&lt;/i&gt; explains the working of the mind and how once the mind is reduced in its capacity to reason and the hardened mental fortitude of a people is broken, those people can be convinced of anything. The enemies of the West have used this knowledge to play a devious and divisive game that has undermined the common values and homogeneity found within Western society.&lt;br/&gt;&lt;br/&gt;&lt;i&gt;The Fall of Western Man&lt;/i&gt; details how the social structures that have shaped generation after generation of Western man have been weakened and removed in order to prevent Western society from holding on to its culture and traditions. This has destroyed strong and cohesive Western communities and reduced them to disparate groups of individuals who are only concerned with hedonism and selfish pursuits.&lt;br/&gt;&lt;br/&gt;But it is still not too late for redemption. Discover how Western man can fight back against these attacks and go on to rediscover his roots and reclaim his birthright.&lt;br/&gt;&lt;br/&gt;www.thefallofwesternman.com</dc:description>
+    <meta property="dcterms:modified">2026-03-31T00:20:28Z</meta>
+    <meta name="cover" content="cover-image"/>
+  </metadata>
+  <manifest>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="xhtml0" href="bookcover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml1" href="indicia.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml2" href="toc.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml3" href="acknowledgements.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml4" href="foreword.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml5" href="chapter1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml6" href="chapter2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml7" href="chapter3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml8" href="chapter4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml9" href="chapter5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml10" href="chapter6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml11" href="chapter7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml12" href="chapter8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml13" href="chapter9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml14" href="chapter10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml15" href="chapter11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml16" href="chapter12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml17" href="chapter13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml18" href="chapter14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml19" href="chapter15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml20" href="chapter16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml21" href="chapter17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml22" href="chapter18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml23" href="chapter19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml24" href="chapter20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml25" href="chapter21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml26" href="chapter22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml27" href="chapter23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml28" href="chapter24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml29" href="chapter25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml30" href="epigraph.xhtml" media-type="application/xhtml+xml"/>
+    <item id="xhtml31" href="backcover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="otf0" href="fonts/leaguegothic-condensedregular.otf" media-type="font/opentype"/>
+    <item id="jpg0" href="images/backcover.jpg" media-type="image/jpeg"/>
+    <item id="jpg1" href="images/cover.jpg" media-type="image/jpeg"/>
+    <item id="css0" href="styles/zstylesheet.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="xhtml0" linear="no"/>
+    <itemref idref="xhtml1"/>
+    <itemref idref="xhtml2"/>
+    <itemref idref="xhtml3"/>
+    <itemref idref="xhtml4"/>
+    <itemref idref="xhtml5"/>
+    <itemref idref="xhtml6"/>
+    <itemref idref="xhtml7"/>
+    <itemref idref="xhtml8"/>
+    <itemref idref="xhtml9"/>
+    <itemref idref="xhtml10"/>
+    <itemref idref="xhtml11"/>
+    <itemref idref="xhtml12"/>
+    <itemref idref="xhtml13"/>
+    <itemref idref="xhtml14"/>
+    <itemref idref="xhtml15"/>
+    <itemref idref="xhtml16"/>
+    <itemref idref="xhtml17"/>
+    <itemref idref="xhtml18"/>
+    <itemref idref="xhtml19"/>
+    <itemref idref="xhtml20"/>
+    <itemref idref="xhtml21"/>
+    <itemref idref="xhtml22"/>
+    <itemref idref="xhtml23"/>
+    <itemref idref="xhtml24"/>
+    <itemref idref="xhtml25"/>
+    <itemref idref="xhtml26"/>
+    <itemref idref="xhtml27"/>
+    <itemref idref="xhtml28"/>
+    <itemref idref="xhtml29"/>
+    <itemref idref="xhtml30"/>
+    <itemref idref="xhtml31"/>
+  </spine>
 </package>

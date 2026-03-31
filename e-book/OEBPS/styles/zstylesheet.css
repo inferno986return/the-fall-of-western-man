@@ -20,13 +20,11 @@ Use ems instead of percentages.
 
 /*Cover*/
 
-p.kindle-center
-{
+p.kindle-center {
   text-align: center; /*Fix for Kindle?*/
 }
 
-img.cover-image
-{
+img.cover-image {
   width: 700px;
   height: 1000px;
   margin-left: auto;
@@ -36,30 +34,26 @@ img.cover-image
 
 /*Titles*/
 
-h1.title
-{
+h1.title {
 	font-size: 2em;
 	font-weight: bold;
 	text-align: center;
 }
 
-h2.title
-{
+h2.title {
 	font-size: 1.2em;
 	font-weight: normal;
 	text-align: center;
 }
 
-h3.title
-{
+h3.title {
 	font-size: 1.5em;
 	font-weight: normal;
 	text-align: center;
 	font-variant: normal;
 }
 
-h4.title
-{
+h4.title {
 	margin-top: 7em;
 	font-size: 1.2em;
 	font-weight: normal;
@@ -68,8 +62,7 @@ h4.title
 
 /*Indicia Headings*/
 
-h1.indicia-heading
-{
+h1.indicia-heading {
 	text-align: center;
 	font-size: 0.9em; /*small works best here rather than a specific em*/
 	font-family: sans-serif;
@@ -77,8 +70,7 @@ h1.indicia-heading
 	margin-bottom: 1em;
 }
 
-h2.indicia-heading
-{
+h2.indicia-heading {
 	text-align: center;
 	font-size: 0.9em; /*small works best here rather than a specific em*/
 	font-family: sans-serif;
@@ -90,8 +82,7 @@ h2.indicia-heading
 
 /*Chapter Headings*/
 
-h1.heading
-{
+h1.heading {
 	font-size: 2.4em; /*Originally 3em, but reduced to make e-book look better when League Gothic is unavailable.*/
 	font-family: "league_gothic", sans-serif;
 	font-weight: normal;
@@ -101,8 +92,7 @@ h1.heading
 	margin-bottom: 0em;
 }
 
-h2.heading
-{
+h2.heading {
 	font-size: 1.5em;
 	font-family: serif;
 	font-weight: normal;
@@ -113,8 +103,7 @@ h2.heading
 	margin-bottom: 0.3em;
 }
 
-h3.heading
-{
+h3.heading {
 	font-size: 1.1em;
 	font-style: italic;
 	font-family: serif;
@@ -124,8 +113,7 @@ h3.heading
 	margin-bottom: 0.2em;
 }
 
-h4.heading
-{
+h4.heading {
 	font-size: 1.2em;
 	font-style: italic;
 	font-family: serif;
@@ -137,8 +125,7 @@ h4.heading
 
 /*Contents headings*/
 
-h1.toc
-{
+h1.toc {
 	margin: 0em;
 	text-indent: 1em;
 	font-size: 1em;
@@ -147,8 +134,7 @@ h1.toc
 	font-variant: normal;
 }
 
-h2.toc
-{
+h2.toc {
 	margin: 0em;
 	text-indent: 1.5em;
 	font-size: 1.2em;
@@ -156,8 +142,7 @@ h2.toc
 	font-variant: small-caps;
 }
 
-h3.toc
-{
+h3.toc {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
 	font-size: 1.1em;
@@ -166,16 +151,14 @@ h3.toc
 	font-weight: normal;
 }
 
-h1.indent, h2.indent
-{
+h1.indent, h2.indent {
 	margin: 0em;
 	text-indent: 1em;
 }
 
 /*Sub Headings*/
 
-h1.subheading
-{
+h1.subheading {
 	font-size: 1em;
 	font-family: serif;
 	font-weight: bold;
@@ -183,21 +166,18 @@ h1.subheading
 	margin-bottom: 1em;
 }
 
-h2.subheading
-{
+h2.subheading {
 	font-size: 1.2em;
 	font-family: sans-serif;
 	font-weight: bold;
 }
 
-h3.subheading
-{
+h3.subheading {
 	font-size: 1em;
 	font-weight: bold;
 }
 
-h4.subheading
-{
+h4.subheading {
 	font-size: 1em;
 	font-weight: bold;
 	text-align: left;
@@ -213,16 +193,14 @@ h4.subheading
 
 /*Book-specific headings*/
 
-h1.protip-heading
-{
+h1.protip-heading {
 	font-size: 1.2em;
 	font-weight: bold;
 	text-align: center;
 	margin-bottom: 1em;
 }
 
-h1.split-page
-{
+h1.split-page {
 	font-size: 2em;
 	font-weight: bold;
 	text-align: center;
@@ -240,8 +218,7 @@ p
 	hyphens: none;
 }
 
-p.indicia, .indicia
-{
+p.indicia, .indicia {
 	font-size: 0.8em; /*0.8em or small*/
 	text-align: center !important;
 	text-indent: 0em !important;
@@ -249,79 +226,65 @@ p.indicia, .indicia
 	margin-right: 5%;
 }
 
-p.small-text, .small-text /*For the indicia*/
-{
+p.small-text, .small-text /*For the indicia*/ {
 	font-size: 0.7em; /*0.8em or small*/
 }
 
-p.noindent, .noindent /*Every starting paragraph should start with this.*/
-{
+p.noindent, .noindent /*Every starting paragraph should start with this.*/ {
 	text-indent: 0em !important;
 }
 
-p.top, .top
-{
+p.top, .top {
 	margin-top: 1em;
 }
 
-p.top2, .top2
-{
+p.top2, .top2 {
 	margin-top: 2em;
 }
 
-p.top3, .top3
-{
+p.top3, .top3 {
 	margin-top: 3em;
 }
 
-p.top4, .top4
-{
+p.top4, .top4 {
 	margin-top: 4em;
 }
 
-p.bottom, .bottom
-{
+p.bottom, .bottom {
 	margin-bottom: 1em;
 }
 
-p.bottom2, .bottom2
-{
+p.bottom2, .bottom2 {
 	margin-bottom: 2em;
 }
 
-p.left, .left
-{
+p.left, .left {
 	text-align: left;
 }
 
-p.center, .center
-{
+p.center, .center {
 	text-align: center !important;
   text-indent: 0em !important;
   margin-left: 5%;
   margin-right: 5%;
 }
 
-p.right, .right
-{
+p.right, .right {
 	text-align: right;
 }
 
-p.sans, .sans
-{
+p.sans, .sans {
 	font-family: sans-serif;
 }
 
-p.mono, .mono
-{
+p.mono, .mono {
 	font-family: monospace;
 }
 
 /*Quotes*/
 /*Quotes are used to show a quote by a person or source. Recommended to write the quote in italics, though this isn't set in the CSS by default.*/
 
-p.noindent-quote
-{
+p.noindent-quote {
 	text-align: justify;
 	text-indent: 0em;
 	margin-left: 1em;
@@ -330,8 +293,7 @@ p.noindent-quote
 	font-style: normal;
 }
 
-p.quote
-{
+p.quote {
 	text-align: justify;
 	text-indent: 1em;
 	margin-left: 1em;
@@ -340,8 +302,7 @@ p.quote
 	font-style: normal;
 }
 
-p.quote2
-{
+p.quote2 {
 	text-align: justify;
 	text-indent: 2em;
 	margin-left: 1em;
@@ -352,14 +313,12 @@ p.quote2
 
 /*References*/
 
-p.ref, .ref
-{
+p.ref, .ref {
 	margin-left: 0em;
 	font-size: 0.9em;
 }
 
-p.ref-noindent-quote
-{
+p.ref-noindent-quote {
 	text-align: justify;
 	text-indent: 0em;
 	margin-left: 1em;
@@ -370,8 +329,7 @@ p.ref-noindent-quote
 
 /*Book-specific paragraphs*/
 
-p.protip
-{
+p.protip {
 	text-align: center;
 	margin: 1em;
 }
@@ -379,8 +337,7 @@ p.protip
 /*Initial Letter*/
 /*Intial letters (also known as dropcaps or illuminated letters) are the large letters used at the start of a chapter for emphasis.*/
 
-span.initial, .initial /*Code snagged from Wikipedia.*/
-{
+span.initial, .initial /*Code snagged from Wikipedia.*/ {
 	float: left;
 	font-weight: bold;
 	font-size: 3.6em;
@@ -391,8 +348,7 @@ span.initial, .initial /*Code snagged from Wikipedia.*/
 	color: #D31F26;
 }
 
-span.initial-black, .initial-black
-{
+span.initial-black, .initial-black {
 	float: left;
 	font-weight: bold;
 	font-size: 3.5em;
@@ -438,8 +394,7 @@ li
   hyphens: none;
 }
 
-p.sublist, .sublist
-{
+p.sublist, .sublist {
 	margin: 0em;
 }
 
@@ -480,8 +435,7 @@ td, th
 
 /*Images*/
 
-div.image-center, .image-center
-{
+div.image-center, .image-center {
 	max-width: 100%
 	/*border: solid 2px; Useful for debugging.*/
 }
@@ -497,8 +451,7 @@ div.image-center, .image-center
 	/*border: solid 2px; Useful for debugging.*/
 }
 
-p.image, .image
-{
+p.image, .image {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 100%;
@@ -517,23 +470,20 @@ p.image, .image
 
 /*Book-specific divs*/
 
-div.red-box
-{
+div.red-box {
 	border-style: solid;
 	border-width: 3px;
 	border-color: #D31F26;
 	padding: 1em;
 }
 
-div.split-page
-{
+div.split-page {
 	border: none;
 	height: 100%;
 	width: 100%;
 }
 
-hr.heading-line
-{
+hr.heading-line {
 	width: 4em;
 	border-style: solid;
 	border-color: #D31F26;
@@ -541,8 +491,7 @@ hr.heading-line
 	margin-right: auto;
 }
 
-hr.short-line
-{
+hr.short-line {
 	width: 8em;
 	border-style: solid;
 	border-color: #000;
@@ -551,8 +500,7 @@ hr.short-line
 	margin-bottom: 1em;
 }
 
-hr.long-line
-{
+hr.long-line {
 	width: 18em;
 	border-style: solid;
 	border-color: #000;
@@ -561,8 +509,7 @@ hr.long-line
 	margin-bottom: 1em;
 }
 
-table.invisible
-{
+table.invisible {
 	border: 0px;
 	margin-top: 1em;
 	margin-bottom: 1em;
@@ -571,20 +518,17 @@ table.invisible
 	width: 50%;
 }
 
-td.noborder
-{
+td.noborder {
 	border-style: none;
 	border-width: none;
 	border-color: none;
 }
 
-p.small
-{
+p.small {
 	font-size: 0.9em;
 }
 
-div.protip
-{
+div.protip {
 		margin-top: 1em;
 		margin-bottom: 1em;
 		font-size: 1em;
@@ -592,14 +536,6 @@ div.protip
 		border: #000 solid 2px;
 }
 
-span.graynumber
-{
+span.graynumber {
 	color: #808080;
-}
-
-/*RTL (Right-to-Left) - For Arabic, Persian, Hebrew, etc...*/
-
-p.rtl, .rtl
-{
-	direction: rtl;
 }
