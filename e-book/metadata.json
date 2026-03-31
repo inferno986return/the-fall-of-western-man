@@ -64,13 +64,13 @@
     "tocFile": "toc.xhtml",
     "tocPage": "Contents",
     "frontCoverfile": "bookcover.xhtml",
-    "frontCoverpage": "Front Cover",
+    "frontCoverpage": "Cover",
 
     "comment7": "This is the page order of the e-book that forms the basis of the toc.ncx and the nav.xhtml.",
     "pages": [
         {
             "type": "cover",
-            "pageName": "Front Cover",
+            "pageName": "Cover",
             "fileName": "bookcover.xhtml"
         },
         {
